@@ -1,2 +1,2 @@
 # Projeto-Receitas-do-povo
-reposit´rorio colaborativo onde serãop colocados receitas fáceis, rápidas e acessíveis para o "povão"
+repositório colaborativo onde serão colocadas receitas fáceis, rápidas e acessíveis para o "povão"
